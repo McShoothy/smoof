@@ -1,5 +1,5 @@
 import requests
-import requests
+
 
 elkuser = "user"
 elkpass = "pass"
